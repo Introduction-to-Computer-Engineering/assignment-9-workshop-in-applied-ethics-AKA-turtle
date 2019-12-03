@@ -46,15 +46,32 @@ _Note: Class activities are group but individual submissions are required for gr
  
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
    1. List the group members below.
+   Jose, Hayden, Daneka, Dwight
    2. Pick a president and write their name below.
+   Dwight
    3. Describe your technical innovation below.
+   Facial Recognition for home circuity
    
 2. Describe the ways your innovation, if realized, would affect society. 
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
-   2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
+   - should the system be able to display the present and past legal status of an individual
+   - could the system be used to enable trafficers and child abusers to secure "captives" from exiting a residence
+   - for external security will the data set racialy bias the AI?
+   
+   	2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
+	**At lauch
+	innovation - allow for more convient access and sucurity for your home.
+	detriment - does it crfeate a social tension with neighbors say in an apartment complex, angry that your recording their face
+	
+	**long term
+	innovation - authorities can use information to apprehend offenders
+	detriment - can the technology detect minors and protect their rights? would it lead to early incarceration rates increasing
    
 3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
+	I believe to enable proper use of this technology their needs to be transparent public oversight of user data and it's use. The company should be based on a subcription model only and not in the sale of user data. 
+
    1. Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
+   All individuals on the planet have a right to all data they produce, the choice how and wether it is monitized and a clear understanding of the profit structure around their chosen sale of their data  
 
 4. **(BONUS)** Ethical codes are vulnerable to _hostile takeover_ of the adopting organization. Pick one person from your group and let them _remove 3 points_ from your Code, at their discretion, to be the most damaging overall. 
    1. Below, discuss how and why the Code has been weakened.
